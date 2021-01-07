@@ -12,5 +12,7 @@ public class IfElsePractice {
     Kiem tra xem nam sinh va nam hien tai, nam nao la nam khong nhuan?
     Ngay hom nay la ngay thu bao nhieu trong nam?
     *Kiem tra xem ngay ban sinh ra la thu may trong tuan?
+    *Nam nay co bao nhieu ngay la thu 6 ngay 13
+
      */
 }
