@@ -13,5 +13,9 @@ public class IfElsePractice {
     Ngay hom nay la ngay thu bao nhieu trong nam?
     *Kiem tra xem ngay ban sinh ra la thu may trong tuan?
     * Nam nay co bao nhieu ngay la thu 6 va la ngay 13
+
+
+    git push origin bai4-....
      */
+
 }
