@@ -42,5 +42,34 @@ public class IfDemo {
         System.out.println("Khong co block code");
 
 
+        boolean b1 = a > 10;
+        boolean b2 = a%2!=0;
+        boolean b3 = 1000%2!=0;
+
+        if(b1 && b2 && b3){
+
+        }
+
+        if(b1){
+            if(b2){
+                if(b3){
+                    // todo 1
+                }
+            }else {
+                // todo 2
+            }
+        }
+
+        if (b1 && b2 && b3) {
+            // TODO: 11/01/2021
+        }else if(b1 && !b2 ){
+            // TODO: 11/01/2021 2
+        }else {
+
+        }
+
+
+
+
     }
 }
