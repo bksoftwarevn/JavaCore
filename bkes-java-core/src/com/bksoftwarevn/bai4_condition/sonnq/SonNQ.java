@@ -43,19 +43,18 @@ public class SonNQ {
 
         System.out.println("Đang kiểm tra năm không nhuận ...");
 
-        if(!((namSinh%4 == 0 && namSinh%100 != 0 )|| namSinh%400 == 0)){
+        if (!((namSinh % 4 == 0 && namSinh % 100 != 0) || namSinh % 400 == 0)) {
 
             System.out.println("Năm sinh không là năm nhuận !");
         }
 
-        if(!((namHienTai%4 == 0 && namHienTai%100 != 0 )|| namHienTai%400 == 0)){
+        if (!((namHienTai % 4 == 0 && namHienTai % 100 != 0) || namHienTai % 400 == 0)) {
 
             System.out.println("Năm hiện tại không là năm nhuận !");
         }
 
 
         System.out.println("Hoàn thành kiểm tra!");
-
 
 
     }
