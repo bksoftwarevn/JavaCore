@@ -2,7 +2,7 @@ package com.bksoftwarevn.bai4_condition.sonnq;
 
 import java.util.Scanner;
 
-public class SonNQ {
+public class KiemTraNgayThang {
 
     public static void main(String[] args) {
         String hoTen;
