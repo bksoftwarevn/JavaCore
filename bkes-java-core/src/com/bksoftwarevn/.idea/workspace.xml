@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fe9f9d43-dc2f-4a85-828a-590d09eb1b17" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/bai5_array/ArrayDemo.java" afterDir="false" />
-    </list>
+    <list default="true" id="fe9f9d43-dc2f-4a85-828a-590d09eb1b17" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -145,7 +143,7 @@
       <workItem from="1610801916920" duration="1012000" />
       <workItem from="1610802983735" duration="3095000" />
       <workItem from="1611536530876" duration="1971000" />
-      <workItem from="1611546170409" duration="7325000" />
+      <workItem from="1611546170409" duration="7929000" />
     </task>
     <servers />
   </component>
