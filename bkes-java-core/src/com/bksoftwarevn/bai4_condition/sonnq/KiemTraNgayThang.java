@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class KiemTraNgayThang {
 
     public static void main(DemoString[] args) {
-        DemoString hoTen;
+        String hoTen;
         int ngaySinh;
         int thangSinh;
         int namSinh;

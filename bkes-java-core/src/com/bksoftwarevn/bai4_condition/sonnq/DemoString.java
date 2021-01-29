@@ -6,6 +6,7 @@ public class DemoString {
 
        System.out.println("Mời bạn nhập giá trị ");
        String a = new Scanner(System.in).nextLine();
+       System.out.println("Giá trị bạn vừa nhập vào là : "+ a);
 
     }
 }
