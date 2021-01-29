@@ -2,7 +2,7 @@ package com.bksoftwarevn.bai4_condition.sonnq;
 
 public class Demo {
 
-    public static void main(String[] args) {
+    public static void main(DemoString[] args) {
         int a = 100;
         boolean b1 = a > 10;
         boolean b2 = a % 2 != 0;

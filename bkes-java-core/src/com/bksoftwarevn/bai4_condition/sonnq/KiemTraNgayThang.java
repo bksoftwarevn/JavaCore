@@ -4,8 +4,8 @@ import java.util.Scanner;
 
 public class KiemTraNgayThang {
 
-    public static void main(String[] args) {
-        String hoTen;
+    public static void main(DemoString[] args) {
+        DemoString hoTen;
         int ngaySinh;
         int thangSinh;
         int namSinh;
