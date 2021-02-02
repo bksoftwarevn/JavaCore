@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class TinhNgayThang {
 
-    public static void main(DemoString[] args) {
+    public static void main(Demo2[] args) {
         int thang;
         int nam;
 

@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class TinhTong {
 
-    public static void main(DemoString[] args) {
+    public static void main(Demo2[] args) {
         int n;
         long tong = 0;
         do{

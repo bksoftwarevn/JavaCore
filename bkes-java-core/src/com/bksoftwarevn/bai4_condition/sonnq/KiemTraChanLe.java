@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class KiemTraChanLe {
 
-    public static void main(DemoString[] args) {
+    public static void main(Demo2[] args) {
 
         int n;
 

@@ -4,7 +4,7 @@ import java.util.*;
 
 public class ArrayDemo1 {
 
-    public static void main(DemoString[] args) {
+    public static void main(Demo2[] args) {
         int a[] = new int[10];
 
         for (int i = 0; i < a.length; i++) {

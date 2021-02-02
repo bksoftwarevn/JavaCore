@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class GiaiPTB2 {
 
-    public static void main(DemoString[] args) {
+    public static void main(Demo2[] args) {
 
 
         System.out.println("Giải phương tình bậc 2 : a*x^2 + b*x + c = 0 ");
