@@ -21,6 +21,19 @@ public class Demo2 {
             System.out.println("Giá trị bên trong tồn tại !");
         }
 
+        int x= 0;
+        do{
+
+            System.out.println("Giá trị của i = "+ x );
+            x++;
+
+
+        }while(x <= 5);
+
+        for(int i = 0; i <= 5; i++){
+
+            System.out.print(i+ "");
+        }
 
 
 
