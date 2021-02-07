@@ -44,6 +44,5 @@ public class ArrayDemo1 {
             System.out.println(x);
         }
 
-
     }
 }
